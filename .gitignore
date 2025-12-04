@@ -1,0 +1,4 @@
+error.*
+norm.*
+stdout.*
+examples/voxceleb/v2/data/
